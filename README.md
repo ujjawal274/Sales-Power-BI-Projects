@@ -77,10 +77,10 @@ Superstore-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard here.
+>  screenshot of my Power BI dashboard here.
 
 ```
-Images/dashboard.png
+dashboard.png
 ```
 
 ---
@@ -90,7 +90,7 @@ Images/dashboard.png
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/Superstore-Sales-Dashboard.git
+ https://github.com/myusername/Superstore-Sales-Dashboard.git
 ```
 
 2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
