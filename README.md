@@ -139,7 +139,7 @@ This project is available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Ujjawal Kumar**
+** Ujjawal Kumar **
 
 ---
 
