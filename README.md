@@ -111,6 +111,7 @@ dashboard.png
 - Business Intelligence
 - Data Visualization
 - Analytical Thinking
+- More
 
 ---
 
