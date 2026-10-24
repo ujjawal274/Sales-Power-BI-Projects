@@ -81,7 +81,7 @@ Superstore-Sales-Dashboard/
 
 ```
 
-
+<img width="845" height="468" alt="Screenshot 2026-09-01 233507" src="https://github.com/user-attachments/assets/de9d390b-e0bb-457d-859d-e089ac0ae122" />
 
 ```
 
