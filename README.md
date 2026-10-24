@@ -77,10 +77,11 @@ Superstore-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 
->  screenshot of my Power BI dashboard here.
+***screenshot of my Power BI dashboard:***
 
 ```
-dashboard.png
+![Uploading Screenshot 2026-09-01 233507.png…]()
+
 ```
 
 ---
