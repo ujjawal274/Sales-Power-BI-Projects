@@ -79,11 +79,8 @@ Superstore-Sales-Dashboard/
 
 ***screenshot of my Power BI dashboard:***
 
-```
+<img width="845" height="468" alt="Screenshot 2026-09-01 233507" src="https://github.com/user-attachments/assets/40ae26e0-104b-4877-9822-b4bf0582b9b4" />
 
-<img width="845" height="468" alt="Screenshot 2026-09-01 233507" src="https://github.com/user-attachments/assets/de9d390b-e0bb-457d-859d-e089ac0ae122" />
-
-```
 
 ---
 
@@ -147,3 +144,4 @@ This project is available under the MIT License.
 ---
 
 ⭐ If you found this project useful, consider giving it a **Star** on GitHub.
+
