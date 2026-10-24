@@ -80,7 +80,7 @@ Superstore-Sales-Dashboard/
 ***screenshot of my Power BI dashboard:***
 
 ```
-![Uploading Screenshot 2026-09-01 233507.png…]()
+<img width="845" height="468" alt="Screenshot 2026-09-01 233507" src="https://github.com/user-attachments/assets/572aec61-c3f2-4278-8600-beeacc2b473f" />
 
 ```
 
